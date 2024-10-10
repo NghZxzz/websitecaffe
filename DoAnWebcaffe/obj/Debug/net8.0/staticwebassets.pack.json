@@ -1,0 +1,1181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnWebcaffe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnWebcaffe.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\_Layoutadmin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\_Layoutadmin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\_Layoutadmin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\_Layoutadmin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\_Layoutadmin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\_Layoutadmin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\_Layoutadmin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\_Layoutadmin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\animate.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\aos.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\css\\style.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\css\\style.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\bg_2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\bg_3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\bg_4.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\bg_4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\burger-1.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\burger-1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\burger-2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\burger-2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\burger-3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\burger-3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dessert-1.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dessert-1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dessert-2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dessert-2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dessert-3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dessert-3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dessert-4.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dessert-4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dessert-5.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dessert-5.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dessert-6.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dessert-6.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-1.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-11.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-11.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-4.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-5.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-5.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-6.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-6.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-7.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-7.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\dish-8.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\dish-8.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-1.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-4.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-5.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-5.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-6.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-6.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-7.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-7.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-8.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-8.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\drink-9.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\drink-9.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\image_1.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\image_2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\image_3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\image_4.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\loc.png",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\loc.png"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\aos.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\google-map.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\main.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\main.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\range.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\range.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutcustomer\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\_Layoutcustomer\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Americano.jpg",
+      "PackagePath": "staticwebassets\\images\\Americano.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Banhbichquy.jpg",
+      "PackagePath": "staticwebassets\\images\\Banhbichquy.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Banhcroissant.jpg",
+      "PackagePath": "staticwebassets\\images\\Banhcroissant.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Banhmuffin.jpg",
+      "PackagePath": "staticwebassets\\images\\Banhmuffin.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Banhngot.jpg",
+      "PackagePath": "staticwebassets\\images\\Banhngot.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Banhque.jpg",
+      "PackagePath": "staticwebassets\\images\\Banhque.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Cappuccino.jpg",
+      "PackagePath": "staticwebassets\\images\\Cappuccino.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Espresso.jpg",
+      "PackagePath": "staticwebassets\\images\\Espresso.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Latte.jpg",
+      "PackagePath": "staticwebassets\\images\\Latte.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Mocha.jpg",
+      "PackagePath": "staticwebassets\\images\\Mocha.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Nuocchanhmuoi.jpg",
+      "PackagePath": "staticwebassets\\images\\Nuocchanhmuoi.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Nuocdua.jpg",
+      "PackagePath": "staticwebassets\\images\\Nuocdua.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Nuocepcarot.jpg",
+      "PackagePath": "staticwebassets\\images\\Nuocepcarot.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Nuoceptraicaytunhien.jpg",
+      "PackagePath": "staticwebassets\\images\\Nuoceptraicaytunhien.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Nuocxachanh.jpg",
+      "PackagePath": "staticwebassets\\images\\Nuocxachanh.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Smothietraicay.jpg",
+      "PackagePath": "staticwebassets\\images\\Smothietraicay.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Sodachanh.jpg",
+      "PackagePath": "staticwebassets\\images\\Sodachanh.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Traden.jpg",
+      "PackagePath": "staticwebassets\\images\\Traden.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\Traxanh.jpg",
+      "PackagePath": "staticwebassets\\images\\Traxanh.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_2.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_3.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\bg_4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_4.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\bg_5.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_5.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\sodacam.jpg",
+      "PackagePath": "staticwebassets\\images\\sodacam.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\images\\tra-tac.jpg",
+      "PackagePath": "staticwebassets\\images\\tra-tac.jpg"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoAnWebcaffe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DoAnWebcaffe.props",
+      "PackagePath": "build\\DoAnWebcaffe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnWebcaffe.props",
+      "PackagePath": "buildMultiTargeting\\DoAnWebcaffe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DoAnWebcaffe.props",
+      "PackagePath": "buildTransitive\\DoAnWebcaffe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

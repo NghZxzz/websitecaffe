@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BaitapC#\\DoAnWebcaffe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\views\\homeadmin\\quanlysp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\views\\homeadmin\\quanlysp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\views\\homeadmin\\detailsdh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\views\\homeadmin\\detailsdh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\repository\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\repository\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\views\\homeadmin\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\views\\homeadmin\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\views\\homeadmin\\doanhthu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\views\\homeadmin\\doanhthu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\views\\homeadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\views\\homeadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\views\\homeadmin\\detailsproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\views\\homeadmin\\detailsproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\admin\\views\\homeadmin\\deletesp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\admin\\views\\homeadmin\\deletesp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|c:\\baitapc#\\doanwebcaffe\\doanwebcaffe\\wwwroot\\_layoutadmin\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C155F61-F34F-40DB-A399-4D6AE2E6B40D}|DoAnWebcaffe\\DoAnWebcaffe.csproj|solutionrelative:doanwebcaffe\\wwwroot\\_layoutadmin\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBcAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:02:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:24:09.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Models\\Product.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\Product.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Models\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:28:13.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailsDH.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DetailsDH.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DetailsDH.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DetailsDH.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DetailsDH.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T03:30:52.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwF4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T03:15:44.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:04:29.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLySP.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\QuanLySP.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\QuanLySP.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\QuanLySP.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\QuanLySP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T03:21:02.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Models\\Order.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\Order.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:23:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Repository\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Repository\\EFProductRepository.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Repository\\EFProductRepository.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Repository\\EFProductRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:24:27.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Repository\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Repository\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Repository\\EFCategoryRepository.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Repository\\EFCategoryRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:02:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Models\\SD.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\SD.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Models\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:21:02.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Models\\Category.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\Category.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:20:53.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:30:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\CreateCategory.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\CreateCategory.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\CreateCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T03:52:14.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T13:07:11.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoanhThu.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DoanhThu.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DoanhThu.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DoanhThu.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DoanhThu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T12:56:08.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetailsProduct.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DetailsProduct.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DetailsProduct.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DetailsProduct.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DetailsProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T12:42:26.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T10:08:39.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Program.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Program.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:33:32.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:29:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:21:27.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwGQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T12:40:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T12:43:11.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAADOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T08:04:13.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteSP.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DeleteSP.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DeleteSP.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DeleteSP.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Admin\\Views\\HomeAdmin\\DeleteSP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T12:36:35.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "services.cshtml",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Views\\Home\\services.cshtml",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Views\\Home\\services.cshtml",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Views\\Home\\services.cshtml",
+              "RelativeToolTip": "DoAnWebcaffe\\Views\\Home\\services.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwDYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:18:03.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T01:11:55.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Models\\CartItem.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Models\\CartItem.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:30:41.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "DoAnWebcaffe\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:30:59.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\css\\styles.css",
+              "RelativeDocumentMoniker": "DoAnWebcaffe\\wwwroot\\_Layoutadmin\\css\\styles.css",
+              "ToolTip": "C:\\BaitapC#\\DoAnWebcaffe\\DoAnWebcaffe\\wwwroot\\_Layoutadmin\\css\\styles.css",
+              "RelativeToolTip": "DoAnWebcaffe\\wwwroot\\_Layoutadmin\\css\\styles.css",
+              "ViewState": "AQIAACIeAAAAAAAAAAAMwD0eAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T02:39:46.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
