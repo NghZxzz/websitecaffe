@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoAnWebcaffe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d1fe743128f15972cdef93bb0fe41d453c125ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoAnWebcaffe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoAnWebcaffe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
